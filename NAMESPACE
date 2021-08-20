@@ -3,3 +3,4 @@
 export(annual_salary)
 export(einstein)
 export(i_ate)
+export(theme_rainbow)
